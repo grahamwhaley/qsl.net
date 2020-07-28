@@ -1,0 +1,27 @@
+# Baluns, and UnUns {-}
+
+I've also been building my own Baluns and UnUns for my wire antennas. Sure, there are circumstances
+with a well balanced and set up antenna where you may not necessarily need one, but, I believe that
+those circumstances are probably more rare than common, and that having a Balun or UnUn in place
+is more of a guarantee that you know what your antenna is at least meant to do. Ultimately I think
+I just feel happier with a Balun or UnUn in place, so will continue down that line (and, I don't have
+the space to use ladder line, it's all coax here, so that helps push me in that direction).
+
+Absolutely, I believe antenna setups wtihout Baluns or UnUns are working for people, and they have
+made 1000's of QSOs on those antennas. I also suspect that maybe with a Balun or UnUn those anntennas
+may perform even better, or you may have less RF common mode back in your shack. But, hey, that's
+up to you to decide ;-)
+
+The world of Baluns and UnUns is full of conflicting confusing information, probably as it's actually
+pretty hard to understand and is more an art and black magic sometimes than physical design. Some of
+the more useful articles I've read are:
+
+- Steve Hunt (G3TXQ) article from [RadCom Plus](https://rsgb.org/main/publications-archives/radcom-plus/)
+  May 2015 titled 'High performance common-mode chokes'. I'm not sure how available that article is
+  if you do not have an RSGB]() membership, so I'll leave out any direct links.
+- Steve Dick (K1RF) ['THE END FED HALF-WAVE ANTENNA' deck](http://gnarc.org/wp-content/uploads/The-End-Fed-Half-Wave-Antenna.pdf)
+  is full of good information, measurements, graphs and designs.
+- Steve Nichols ['Using Baluns and Ununs' deck](http://www.infotechcomms.net/downloads/Baluns-and-Ununs.pdf
+  is a good intro/overview with good references (including iirc the two above).
+
+The 'holy grail' is the book ['Building and Using Baluns and Ununs'](https://www.amazon.co.uk/Jerry-Sevick/e/B001K7XQ1M/ref=dp_byline_cont_pop_book_1). No, I don't own that... yet.

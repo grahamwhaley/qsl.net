@@ -1,0 +1,18 @@
+# Linux {-}
+
+I'm a [Linux](https://en.wikipedia.org/wiki/Linux) user. I don't even have a Windows machine in the
+house I think (or not one that is less than a decade old). Why? Well, it was my career. I know it, it
+'fits' in my head, and it is, well, free :-)
+
+Sadly it seems most of the Amateur software out there is aimed at Windows. Which, tbh, I find a little
+odd give that the nature of Amateur radio is experimentation and sharing, and that is a much better
+fit with Linux than Windows. Such is life.
+
+Can an amateur survive using just Linux. Maybe. Don't get me wrong, there is a *lot* of Linux software
+out there. There are even some pre-installed Linux distros for hams, like
+[skywave Linux](https://skywavelinux.com/)
+
+Sometimes though the piece of software you want or need is Windows only. It is possible that sometimes
+you can make that work under Linux using [Wine](https://www.winehq.org/). For instance, I have a page
+where I show how to run [SDRSharp](https://airspy.com/download/)
+[under Wine](https://gist.github.com/grahamwhaley/094d62d88575141377f02fa92342fb7e#file-sdrsharp_wine-md)

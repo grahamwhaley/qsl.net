@@ -1,0 +1,12 @@
+# CW {-}
+
+I'm learning morse. Voice and data modes don't really appeal to me at the moment. Yes, it's hard work,
+but that is the challenge.
+
+I'm currently learning using the 'Koch' method (learn at full speed, one letter at a time),
+and using the 'Farnsworth' method (make the gaps between characters and words longer, but keep the
+speed of the characters themselves the same) to help get my 'ear in'.
+
+I'm using [Koch Morse Tutor](https://github.com/hmatuschek/kochmorse), mostly as I'm a Linux user.
+
+There is a lot of information out there on learning Morse, and a lot of tools. Good luck!

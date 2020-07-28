@@ -1,0 +1,20 @@
+# Antennas {-}
+
+I'm currently running a long-wire made with Kevlar cable out of the 'shack' window to a tree as
+a temporary receive solution. I'm also working on a fan-dipole away from the house on the garage roof.
+
+Later I'd like to investigate 'microverts' more - as they look really interesting, and relatively
+performant for their size. Hopefully that will make it easier for me to get on 80m.
+
+I started off doing rx using a [home-made](https://www.rtl-sdr.com/youloop-portable-passive-loop-antenna-now-available-in-our-store/)
+[youloop](https://airspy.com/youloop/). For a passive low-noise rx antenna to use with your SDR to get
+to know the bands etc., it's a really good and easy to construct starter antenna.
+
+I like building antennas. I've constructed a number for [LoRa](https://en.wikipedia.org/wiki/LoRa)
+(j-pole, yagi, 1/4 wave vertical), and VHF
+([Flower pot](https://vk2zoi.com/articles/half-wave-flower-pot/), co-linear coaxial). I'm hoping
+to get some experimentation done on HF as well.
+
+One crucial piece of equipment I recently acquired was a [nanoVNA](https://nanovna.com/). I think if
+you are doing anything beyond the basics with antennas then one of those is really going to be your
+friend!
