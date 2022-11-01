@@ -1,12 +1,31 @@
 # CW {-}
 
-I'm learning morse. Voice and data modes don't really appeal to me at the moment. Yes, it's hard work,
-but that is the challenge.
+I spent the first couple of years after getting my license doing a lot of listening, and leanring morse.
+Voice and data modes don't really appeal to me. Yes, it's hard work, but that is the challenge.
+I was in no hurry. I like tinkering and building, so didn't need to rush onto the air.
 
-I'm currently learning using the 'Koch' method (learn at full speed, one letter at a time),
+I learnt using the 'Koch' method (learn at full speed, one letter at a time),
 and using the 'Farnsworth' method (make the gaps between characters and words longer, but keep the
-speed of the characters themselves the same) to help get my 'ear in'.
+speed of the characters themselves the same) to help get my 'ear in'. If there was one piece of advice
+I would give it would probably be - crank up the speed. The more you can train your ear to hear the
+patterns and directly translate that to characters the better. I struggled a bit. I didn't find myself
+counting, but found myself visualising the patterns in my minds eye. I think that's just the way my
+head works, but it is something I'll have to overcome to become more proficient.
 
 I'm using [Koch Morse Tutor](https://github.com/hmatuschek/kochmorse), mostly as I'm a Linux user.
+Once I was proficient with the characters, something that really pushed me up a level was to have
+a go with the 'CW speed contest' software. I used [qrq](https://fkurz.net/ham/qrq.html) as it runs on
+Linux. For Windows etc. you'll want to look towards [Rufz](https://www.rufzxp.net/). The software
+basically throws random callsigns at you and gets faster until you cannot identify them. It is hard
+work, but it is great for forcing your ear to go faster - to just faster than it can currently manage.
+I found that my 'score' rapidly increased in the first month of practice. In fact, it took just
+14 'lessons' to start levelling out - that is once a day for two weeks - worth a try??
+
+An interesting book I read recently is 'The Art & Skill of Radio Telegraphy' by William Pierpont.
+It's an interesting read, and might really help plan your course in learning CW. I only read it in full
+after I'd mostly learnt. I probably would have benefitted from reading it more beforehand.
+
+You can find info and links about the book on [N9BOR's website](https://www.n9bor.us/index.php/morse-code/the-art-skill-of-radio-telegraphy).
+I purchased a solid copy off [lulu.com](https://www.lulu.com/shop/william-pierpont/the-art-and-skill-of-radio-telegraphy/paperback/product-20671748.html?page=1&pageSize=4)
 
 There is a lot of information out there on learning Morse, and a lot of tools. Good luck!

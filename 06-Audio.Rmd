@@ -1,0 +1,10 @@
+# Audio {-}
+
+You know the old adage 'if you can't hear them you can't work them'? Well, the last step in that chain,
+apart from your ears, is your speaker! Generally speaking there are a number of things you can do to
+improve your audio. One day I'll hopefully write up an article, but here are a couple of good references
+to chase in the meantime:
+
+- [Loudspeaker Desing Considerations for Amateur Radio, Steve Dick, K1RF](http://www.hcra.org/wp-content/uploads/2015/05/Loudspeaker-Design-Considerations-for-Amateur-Radio-RevD.pdf)
+- Watch some [Bob Heil K9EID on YouTube](https://www.youtube.com/watch?v=Lx2dP0lOQL0)
+

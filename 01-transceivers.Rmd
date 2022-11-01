@@ -4,16 +4,19 @@ Actually, covering both transceivers and receivers I have.
 
 ## Transceivers {-}
 
-Currently, I have a [Xiegu G90](https://xiegu.eu/product/xiegu-g90-hf-20w-sdr-transceiver/)
-for HF, and a
-[Baofeng UV5RIII](http://www.baofengradio.co.uk/uv-5r-iii-tri-band-green-camouflage-vhf136-174mhz-220-260mhz-uhf-400-520mhz-walkie-talkie-long-range-two-way-fm-radio-speaker-mic-usb-cable/)
-for VHF/UHF.
+Currently, I have
+
+- a [Xiegu G90](https://xiegu.eu/product/xiegu-g90-hf-20w-sdr-transceiver/) for HF
+- a [Baofeng UV5RIII](http://www.baofengradio.co.uk/uv-5r-iii-tri-band-green-camouflage-vhf136-174mhz-220-260mhz-uhf-400-520mhz-walkie-talkie-long-range-two-way-fm-radio-speaker-mic-usb-cable/) for VHF/UHF.
+- a Yaesu FTdx10, which is now my main HF rig
+- a [QRPlabs](https://www.qrp-labs.com/) QCX+ for 20m - lovely little rigs and kits.
 
 ## Receivers {-}
 
 I have a few SDRs of differing capabilities I used for learning my way around the bands and generally
 getting a feel for what was achievable at my QTH. These include:
 
+- A Tecsun PL-660, which has support for SSB, so I can use for CW and SSB, but the VFO is not great.
 - A very cheap ['RTL SDR' dongle](https://www.rtl-sdr.com/about-rtl-sdr/) with a Fitipower tuner.
   It's pretty junk. I spent some effort improving it (shielding etc.). It still won't pick much
   up outside of commercial broadcast stations (including DAB and DVB). I'd probably recommend nobody

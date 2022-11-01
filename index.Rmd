@@ -20,15 +20,15 @@ Hi. I'm a U.K. based radio amateur, licensed in July 2020.
 
 I live in a fairly suburban area in the North of England. I have a reasonably sized garden area, but
 the combination of suburbia, power and telephone cables etc. leave me with a moderately (but not
-overly) challenging QTH. No, I don't think I can manage to get an 80m half wave antenna up, not
-without some 'cheating'.
+overly) challenging QTH. I squeezed in an 80m capable antenna (not that I use 80m ...) by building
+a 2/3^rds^ [G7FEK](https://www.g7fek.co.uk/software/G7FEK%20antenna.pdf) twin inverted-L.
 
 The QTH is reasonably elevated - about 100m above sea level, but is on the South side of a hill
 that peaks at about 140m. Views South are great. East and West are OK. The North view is somewhat
 more challenging.
 
-VHF/UHF here is a bit dead. There are some local repeaters, but due to the topography I have
-so far only heard one to the South.
+VHF/UHF here is a bit dead. There are some local repeaters. On a good day I can hear three of them,
+but activity is either absent or not really my thing.
 
 Thus, I'll mostly be looking at HF work. Right now SSB rag chewing is not really 'calling' me, and
 data modes just don't feel very 'traditional'. I like the challenge of being able to 'reach' far
@@ -39,6 +39,8 @@ radio and electronics), and then Computer Science. I spent >30 years as an embed
 and have a reasonably au-fait relationship with the hardware, particularly the digital side of things.
 
 On this site you'll find a few pages relating to some of my equipment and experiments.
+
+These pages may not be quite as upto date as my [QRZ page](https://www.qrz.com/db/M7GRW).
 
 ---
 

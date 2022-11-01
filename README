@@ -1,0 +1,36 @@
+These are the source pages for my qsl.net pages.
+I don't make much use of them, now I have an active QRZ page.
+
+You can find the final pages published at https://www.qsl.net/m7grw/
+
+# Building
+
+The pages are built with bookdown, which we run from docker.
+
+First step is to get the docker image built:
+
+$ ./dockerbuild.sh
+
+## Doing a build
+
+To do an actual build, you run up a shell in the docker image and execute a command:
+
+$ ./dockerrun.sh
+# cd data
+# ./build.sh
+
+That leaves the results back on the host machine in the '_build' directory.
+
+# Uploading
+
+I used ftp. connect to ftp.qsl.net. Username **lower case**, and normal password.
+Then, as ftp does not do recursive, I did a bunch of
+
+# mput *
+# mput */*
+# mput */*/*
+# mput */*/*/*
+# mput */*/*/*/*
+
+Slow, but effective. A gui ftp client could do a recursive put - that might be easier if we do this a
+lot.

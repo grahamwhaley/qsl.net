@@ -7,11 +7,6 @@ is more of a guarantee that you know what your antenna is at least meant to do. 
 I just feel happier with a Balun or UnUn in place, so will continue down that line (and, I don't have
 the space to use ladder line, it's all coax here, so that helps push me in that direction).
 
-Absolutely, I believe antenna setups wtihout Baluns or UnUns are working for people, and they have
-made 1000's of QSOs on those antennas. I also suspect that maybe with a Balun or UnUn those anntennas
-may perform even better, or you may have less RF common mode back in your shack. But, hey, that's
-up to you to decide ;-)
-
 The world of Baluns and UnUns is full of conflicting confusing information, probably as it's actually
 pretty hard to understand and is more an art and black magic sometimes than physical design. Some of
 the more useful articles I've read are:
